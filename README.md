@@ -1,4 +1,4 @@
-# bachelorthesis
+# Bachelor's thesis
 
 My Bachelor thesis with the title: [__"Tactile acuity and visuo-tactile multisensory integration in the context of deafness"__](https://github.com/felixschltr/bachelorthesis/blob/master/Bachelor_Thesis_final.pdf) - Felix B. Schlüter, 2019.
 
