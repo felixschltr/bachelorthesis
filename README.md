@@ -1,6 +1,6 @@
 # Bachelor's thesis
 
-My Bachelor thesis with the title: [__"Tactile acuity and visuo-tactile multisensory integration in the context of deafness"__](https://github.com/felixschltr/bachelorthesis/blob/master/Bachelor_Thesis_final.pdf) - Felix B. Schlüter, 2019.
+My Bachelor thesis with the title: [__"Tactile acuity and visuo-tactile multisensory integration in the context of deafness"__](https://github.com/felixschltr/bachelorthesis/blob/master/Bachelor_Thesis_final.pdf) - Felix B. Schlüter, May 2019.
 
 Written as part of the B.Sc Psychology at the [__Faculty of Psychology and Neuroscience (FPN)__](https://www.maastrichtuniversity.nl/about-um/faculties/faculty-psychology-and-neuroscience) | Maastricht University.
 
