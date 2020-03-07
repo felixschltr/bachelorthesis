@@ -7,4 +7,4 @@ Written as part of the B.Sc Psychology at the [__Faculty of Psychology and Neuro
 __Supervisors:__
 - [__Arjan Blokland, PhD__](https://www.maastrichtuniversity.nl/a.blokland) - Head of Department of Neuropsychology and Psychopharmacology, Faculty of Psychology  and Neuroscience, Maastricht University, the Netherlands.
 
-- [__Franco Lepore, PhD__](https://psy.umontreal.ca/repertoire-departement/vue/lepore-franco/) - Director of CERNEC (Centre de recherche en neuropsychologie et cognition), Department of Psychology, Université de Montréal, Canada.
+- [__Franco Lepore, PhD__](https://psy.umontreal.ca/repertoire-departement/professeurs/professeur/in/in13609/sg/Franco%20Lepore/) - Director of CERNEC (Centre de recherche en neuropsychologie et cognition), Department of Psychology, Université de Montréal, Canada.
